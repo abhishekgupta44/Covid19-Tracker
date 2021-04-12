@@ -7,4 +7,4 @@ A React JS application that shows global as well as country wise Infected, Recov
 
 ## Technology & Framework
 
-Apart from React JS, React Axios, React CountUp, Material-UI, Chart.js have been used.
+Apart from `React JS`, `React Axios`, `React CountUp`, `Material-UI`, `Chart.js` have been used.
